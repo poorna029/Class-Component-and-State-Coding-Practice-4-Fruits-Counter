@@ -1,0 +1,59 @@
+/* Write your CSS here */
+
+.yellow {
+  background-color: #ffd569;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.white {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 25px;
+  height: 100vh;
+  margin: 20px;
+}
+
+.fruits_orientation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.c1 {
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  width: 200px;
+  height: 200px;
+}
+.fruits {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+.button {
+  color: white;
+  width: 115px;
+  height: 38px;
+  background-color: #007bff;
+  border-radius: 10px;
+  border-color: #f2fcf5;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+
+.yclr {
+  color: #ffd569;
+}
